@@ -1,0 +1,6 @@
+streamlit
+streamlit-pdf-viewer
+numpy
+langchain-community
+pypdf
+google-cloud-storage
