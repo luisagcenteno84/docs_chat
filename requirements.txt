@@ -2,5 +2,8 @@ streamlit
 streamlit-pdf-viewer
 numpy
 langchain-community
+langchain-google-genai
 pypdf
 google-cloud-storage
+faiss-cpu
+langchain-google-community[gcs]
